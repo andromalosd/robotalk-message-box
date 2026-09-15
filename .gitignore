@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Private build notes — never publish
+*.local.md
+participante.local.json
+
+# Secrets and runtime state from the box — never publish
+auth/
+auth-*/
+config.json
+mensajes/
+sonidos/
+*.log
+
+# Scratch
+*.tar.gz

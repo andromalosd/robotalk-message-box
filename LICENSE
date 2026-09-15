@@ -1,0 +1,21 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 David Andromalos
+
+The documentation, written text, and photographs in this repository are
+licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the license, and
+indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by/4.0/
+
+The configuration files and shell snippets in this repository are additionally
+available under the MIT License; see LICENSE-CODE.
+
+SCOPE: This license covers only the contents of this repository. It does not
+cover the upstream "Cajita mágica" application by Salomón Zarruk
+(https://github.com/zarruk/cajita-magica-aztec), which is not included here and
+remains subject to its author's rights.

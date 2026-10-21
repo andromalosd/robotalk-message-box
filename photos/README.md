@@ -6,7 +6,7 @@ filename and the README and docs will pick it up with no edits.
 | File | Shot | Used in |
 |---|---|---|
 | `01-finished-box.jpg` | Hero image — the finished box, buttons and LED visible | `README.md` |
-| `02-in-use.jpg` | Your son pressing a button or listening | `README.md` |
+| `02-in-use.gif` | Silent loop of a button press, framed on hands and box | `README.md` |
 | `03-interior-wiring.jpg` | Interior — Pi, wiring, buttons and LED mounted | `README.md` |
 | `04-components.jpg` | Components laid out before assembly — board, USB WiFi, USB mic, speaker | `docs/hardware-port.md` |
 | `05-gpio-header.jpg` | Close-up of the GPIO header with jumpers, pins countable | `docs/wiring.md` |

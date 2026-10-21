@@ -55,8 +55,7 @@ of throwing capable hardware at a problem, I took a capable project and pushed
 it down onto a 2015 single-board computer sitting in a drawer, to see where it
 would break. It broke in three interesting places, documented below.
 
-<!-- PHOTO: your son using the box — pressing a button, or listening -->
-![In use](photos/02-in-use.jpg)
+![Pressing the talk button](photos/02-in-use.gif)
 
 ---
 

@@ -1,8 +1,8 @@
 # Robotalk — a screenless voice-message box for my son
 
 A two-button, one-LED wooden box that swaps WhatsApp voice notes with our family
-group. No screen, no menus, no phone: press and hold the green button to talk,
-tap the yellow one to hear what came back. Built as a weekend hardware project
+group. No screen, no menus, no phone: press and hold the red button to talk,
+tap the blue one to hear what came back. Built as a weekend hardware project
 to entertain my preschooler — and as an exercise in making software run on
 hardware it was never designed for.
 
@@ -65,11 +65,11 @@ would break. It broke in three interesting places, documented below.
 <!-- PHOTO: interior shot — Pi, wiring, buttons and LED mounted in the enclosure -->
 ![Inside the box](photos/03-interior-wiring.jpg)
 
-- **Green button (hold)** — records while held, plus a trailing second after
+- **Red button (hold)** — records while held, plus a trailing second after
   release, then sends the clip as a WhatsApp voice note to one authorized
   family group.
-- **Yellow button (tap)** — plays the oldest unheard message and clears the LED.
-- **Yellow button (hold)** — plays every pending message in order.
+- **Blue button (tap)** — plays the oldest unheard message and clears the LED.
+- **Blue button (hold)** — plays every pending message in order.
 - **LED** — lit when something is waiting; blinks during activity.
 - **systemd service** — starts the app at boot, restarts it on failure, and
   brings the box back up unattended after a power loss.

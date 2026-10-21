@@ -6,8 +6,8 @@ the signal lines.
 
 | Element | Signal | Ground |
 |---|---|---|
-| TALK button (green) | pin 11 — GPIO17 | pin 9 — GND |
-| LISTEN button (yellow) | pin 13 — GPIO27 | pin 14 — GND |
+| TALK button (red) | pin 11 — GPIO17 | pin 9 — GND |
+| LISTEN button (blue) | pin 13 — GPIO27 | pin 14 — GND |
 | LED | long leg → pin 15 — GPIO22 | short leg → 330 Ω resistor → pin 20 — GND |
 
 Buttons are wired straight to ground and read with the Pi's internal pull-ups —
